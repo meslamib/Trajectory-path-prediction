@@ -5,3 +5,6 @@ The presented work demonstrates the training of recurrent neural networks (RNNs)
 
 More details can be found in the following file:
 > Trajectory_prediction_RNN.pdf
+
+Ref.
+Eslamibidgoli, Mohammad Javad, Mehrdad Mokhtari, and Michael H. Eikerling. "Recurrent Neural Network-based Model for Accelerated Trajectory Analysis in AIMD Simulations." arXiv preprint arXiv:1909.10124 (2019).
