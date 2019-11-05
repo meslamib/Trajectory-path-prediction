@@ -1,4 +1,6 @@
 
+# The original code can be found here: https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction.ipynb
+
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
